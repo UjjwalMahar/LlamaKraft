@@ -50,7 +50,9 @@ Checks if the service is up and running.
    ```
 
 3. **Environment Variables:**
-   Create a `.env` file and set the following environment variable:
+   
+  Get your (API     KEY)[https://aistudio.google.com/app/apikey]
+  Create a `.env` file and set the following     environment variable:
    ```
    API_KEY=your_google_genai_api_key
    ```
