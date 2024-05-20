@@ -1,12 +1,3 @@
-## Standard Template for .env files
+## Welcome to LlamaKraft
 
-Database used is Postgress
-
-```
-DB_USER=
-DB_PASSWORD=
-SECRET= 
-DB_HOST=
-DB_NAME=
-
-```
+Detailed can be found inside README.md of each package 📦
